@@ -197,5 +197,5 @@ class AdorableKatze:
                     return
         self.root.destroy()
 if __name__ == "__main__":
-    app = adorable_katze()
+    app = AdorableKatze()
     app.run()
